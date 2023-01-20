@@ -1,0 +1,875 @@
+[
+  {
+    "date": "2022-09-10",
+    "notes": "start of low bar squat",
+    "lifts": [
+      {
+        "name": "squat",
+        "program": [
+            {
+              "weight": 45,
+              "reps": 5,
+              "sets": 2
+            },
+            {
+              "weight": 55,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 65,
+              "reps":5,
+              "sets": 1
+            },
+            {
+              "weight": 75,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 85,
+              "reps": 5,
+              "sets": 1
+            }
+          ]
+      },
+      {
+        "name": "press",
+        "program":[
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 50,
+            "reps": 5,
+            "sets":1
+          },
+          {
+            "weight":55,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 65,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "deadlift",
+        "program":[
+          {
+            "weight": 135,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 155,
+            "reps": 5,
+            "sets":1
+          },
+          {
+            "weight": 175,
+            "reps": 1,
+            "sets": 1
+          },
+          {
+            "weight": 185,
+            "reps": 5,
+            "sets": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-13",
+    "lifts": [
+      { 
+        "name": "squat",
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 55,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 60,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 75,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+          "weight": 95,
+          "reps": 5,
+          "sets": 3 
+          }
+        ]
+      },
+      {
+        "name": "benchpress"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 115,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 135,
+            "reps": 1,
+            "sets": 1
+          },
+          {
+            "weight": 145,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "deadlift",
+        "program":[
+          {
+            "weight": 135,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 155,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 175,
+            "reps": 1,
+            "sets": 1
+          },
+          {
+            "weight": 205,
+            "reps": 5,
+            "sets": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-15",
+    "lifts":[
+      { 
+        "name": "squat"
+        "program":[
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 75,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 1,
+            "sets": 1
+          },
+          {
+            "weight": 105,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "press"
+        "program" : [
+          {
+            "weight": 0,
+            "reps": 10,
+            "sets": 1
+          },
+          {
+            "weight": 45,
+            "reps":5,
+            "sets": 1
+          },
+          {
+            "weight": 55,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 60,
+            "reps":1,
+            "sets":1
+          },
+          {
+            "weight": 70,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "deadlift"
+        "program" : [
+          {
+            "weight": 135,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 155,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 185,
+            "reps": 1,
+            "sets": 1
+          },
+          {
+            "weight": 215,
+            "reps": 5,
+            "sets": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-17",
+    "lifts": [
+      {
+        "name": "squat"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 95,
+            "reps":1,
+            "sets": 1
+          },
+          {
+            "weight": 110,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "benchpress"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+            },
+            {
+              "weight": 85,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 115,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 135,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 150,
+              "reps": 5,
+              "sets": 3
+            }
+          ]
+        },
+        {
+          "name": "deadlift"
+          "program": [
+          {
+            "weight": 135,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 175,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 195,
+            "reps":1,
+            "sets":1
+          },
+          {
+            "weight": 225,
+            "reps":5,
+            "sets": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-20",
+    "notes": "no box for squat"
+    "lifts": [
+      {
+        "name": "squat"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 95,
+            "reps":1,
+            "sets": 1
+          },
+          {
+            "weight": 115,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "press"
+        "program": [
+          {
+            "weight": 0,
+            "reps": 10,
+            "sets": 1
+            },
+            {
+              "weight": 45,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 65,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 70,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 75,
+              "reps": 5,
+              "sets": 3
+            }
+          ]
+        },
+        {
+          "name": "deadlift"
+          "program": [
+          {
+            "weight": 135,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 185,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 205,
+            "reps":1,
+            "sets":1
+          },
+          {
+            "weight": 235,
+            "reps":5,
+            "sets": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-12",
+    "notes": "removed box for second squat warmup"
+    "lifts": [
+      {
+        "name": "squat"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 95,
+            "reps":1,
+            "sets": 1
+          },
+          {
+            "weight": 115,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "benchpress"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+            },
+            {
+              "weight": 85,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 115,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 135,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 152.5,
+              "reps": 5,
+              "sets": 3
+            }
+          ]
+        },
+        {
+          "name": "latpulls"
+          "program": [
+          {
+            "weight": 24,
+            "reps": 10,
+            "sets": 1
+          },
+          {
+            "weight": 45,
+            "reps": 10,
+            "sets": 1
+          },
+          {
+            "weight": 50,
+            "reps":10,
+            "sets":2
+          },
+          {
+            "weight": 60,
+            "reps":10,
+            "sets": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-24",
+    "lifts": [
+      {
+        "name": "squat"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 105,
+            "reps":1,
+            "sets": 1
+          },
+          {
+            "weight": 120,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "press"
+        "program": [
+          {
+            "weight": 0,
+            "reps": 10,
+            "sets": 1
+            },
+            {
+              "weight": 45,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 65,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 75,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 80,
+              "reps": 5,
+              "sets": 3
+            }
+          ]
+        },
+        {
+          "name": "deadlift"
+          "program": [
+          {
+            "weight": 135,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 185,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 225,
+            "reps":1,
+            "sets":1
+          },
+          {
+            "weight": 240,
+            "reps":5,
+            "sets": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-27",
+    "lifts": [
+      {
+        "name": "squat"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 105,
+            "reps":1,
+            "sets": 1
+          },
+          {
+            "weight": 125,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "benchpress"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+            },
+            {
+              "weight": 85,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 115,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 135,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 142.5,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 135,
+              "reps": 3,
+              "sets": 4
+            }
+          ]
+        },
+        {
+          "name": "latpulls",
+          "program": [
+          {
+            "weight": 25,
+            "reps": 10,
+            "sets": 1
+          },
+          {
+            "weight": 35,
+            "reps": 10,
+            "sets": 1
+          },
+          {
+            "weight": 45,
+            "reps":10,
+            "sets":1
+          },
+          {
+            "weight": 60,
+            "reps":10,
+            "sets": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-29",
+    "lifts": [
+      {
+        "name": "squat"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 85,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 120,
+            "reps":1,
+            "sets": 1
+          },
+          {
+            "weight": 135,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "press"
+        "program": [
+          {
+            "weight": 0,
+            "reps": 10,
+            "sets": 1
+            },
+            {
+              "weight": 45,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 65,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 75,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 85,
+              "reps": 5,
+              "sets": 3
+            }
+          ]
+        },
+        {
+          "name": "deadlift"
+          "program": [
+          {
+            "weight": 135,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 185,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 225,
+            "reps":1,
+            "sets":1
+          },
+          {
+            "weight": 245,
+            "reps":5,
+            "sets": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-01",
+    "lifts": [
+      {
+        "name": "squat"
+        "program": [
+          {
+            "weight": 45,
+            "reps": 5,
+            "sets": 1
+          },
+          {
+            "weight": 95,
+            "reps": 3,
+            "sets": 1
+          },
+          {
+            "weight": 135,
+            "reps":1,
+            "sets": 1
+          },
+          {
+            "weight": 140,
+            "reps": 5,
+            "sets": 3
+          }
+        ]
+      },
+      {
+        "name": "benchpress"
+        "program": [
+            {
+              "weight": 45,
+              "reps": 5,
+              "sets": 1
+            },
+            {
+              "weight": 95,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 115,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 135,
+              "reps": 3,
+              "sets": 1
+            },
+            {
+              "weight": 145,
+              "reps": 1,
+              "sets": 1
+            },
+            {
+              "weight": 135,
+              "reps": 3,
+              "sets": 2
+            }
+          ]
+        },
+        {
+          "name": "latpulls",
+          "program": [
+          {
+            "weight": 35,
+            "reps": 10,
+            "sets": 1
+          },
+          {
+            "weight": 50,
+            "reps": 10,
+            "sets": 1
+          },
+          {
+            "weight": 65,
+            "reps":10,
+            "sets":1
+          }
+        ]
+      }
+    ]
+  }
+]
