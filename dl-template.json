@@ -2,7 +2,7 @@
     "date": "2022-00-00",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "press"
+        "name": "press",
         "program": [
           {
             "weight": 0,
@@ -57,7 +57,7 @@
           ]
         },
         {
-          "name": "deadlift"
+          "name": "deadlift",
           "program": [
           {
             "weight": 135,

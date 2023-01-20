@@ -119,7 +119,7 @@
         ]
       },
       {
-        "name": "benchpress"
+        "name": "benchpress",
         "program": [
           {
             "weight": 45,
@@ -179,7 +179,7 @@
     "date": "2022-09-15",
     "lifts":[
       { 
-        "name": "squat"
+        "name": "squat",
         "program":[
           {
             "weight": 45,
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "name": "press"
+        "name": "press",
         "program" : [
           {
             "weight": 0,
@@ -234,7 +234,7 @@
         ]
       },
       {
-        "name": "deadlift"
+        "name": "deadlift",
         "program" : [
           {
             "weight": 135,
@@ -264,7 +264,7 @@
     "date": "2022-09-17",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "name": "benchpress"
+        "name": "benchpress",
         "program": [
           {
             "weight": 45,
@@ -319,7 +319,7 @@
           ]
         },
         {
-          "name": "deadlift"
+          "name": "deadlift",
           "program": [
           {
             "weight": 135,
@@ -347,10 +347,10 @@
   },
   {
     "date": "2022-09-20",
-    "notes": "no box for squat"
+    "notes": "no box for squat",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -380,7 +380,7 @@
         ]
       },
       {
-        "name": "press"
+        "name": "press",
         "program": [
           {
             "weight": 0,
@@ -410,7 +410,7 @@
           ]
         },
         {
-          "name": "deadlift"
+          "name": "deadlift",
           "program": [
           {
             "weight": 135,
@@ -438,10 +438,10 @@
   },
   {
     "date": "2022-09-12",
-    "notes": "removed box for second squat warmup"
+    "notes": "removed box for second squat warmup",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -471,7 +471,7 @@
         ]
       },
       {
-        "name": "benchpress"
+        "name": "benchpress",
         "program": [
           {
             "weight": 45,
@@ -501,7 +501,7 @@
           ]
         },
         {
-          "name": "latpulls"
+          "name": "latpulls",
           "program": [
           {
             "weight": 24,
@@ -531,7 +531,7 @@
     "date": "2022-09-24",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -556,7 +556,7 @@
         ]
       },
       {
-        "name": "press"
+        "name": "press",
         "program": [
           {
             "weight": 0,
@@ -586,7 +586,7 @@
           ]
         },
         {
-          "name": "deadlift"
+          "name": "deadlift",
           "program": [
           {
             "weight": 135,
@@ -616,7 +616,7 @@
     "date": "2022-09-27",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -641,7 +641,7 @@
         ]
       },
       {
-        "name": "benchpress"
+        "name": "benchpress",
         "program": [
           {
             "weight": 45,
@@ -706,7 +706,7 @@
     "date": "2022-09-29",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -731,7 +731,7 @@
         ]
       },
       {
-        "name": "press"
+        "name": "press",
         "program": [
           {
             "weight": 0,
@@ -761,7 +761,7 @@
           ]
         },
         {
-          "name": "deadlift"
+          "name": "deadlift",
           "program": [
           {
             "weight": 135,
@@ -791,7 +791,7 @@
     "date": "2022-10-01",
     "lifts": [
       {
-        "name": "squat"
+        "name": "squat",
         "program": [
           {
             "weight": 45,
@@ -816,7 +816,7 @@
         ]
       },
       {
-        "name": "benchpress"
+        "name": "benchpress",
         "program": [
             {
               "weight": 45,
